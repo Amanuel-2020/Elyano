@@ -31,7 +31,6 @@ const  HomePage =() =>{
                      loop: true,
                      delay: 40,
                      strings:[
-                         'Developer',
                          'Designer',
                          'Motion Graphics',
                          'Vedio Editor'
